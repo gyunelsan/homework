@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+header {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+  margin-left: 15px;
+}
+
+main {
+  padding: 20px;
+}
+
+main p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
